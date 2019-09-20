@@ -2,5 +2,4 @@
 #Helena Júlía Kristinsdottir & Silja Björk Axelsdóttir
 #Hópur
 
-hææh
-
+file_name=input('Enter a name of file: ')
